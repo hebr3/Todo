@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from "react";
 
-import "./bootstrap.min.css";
-
 import TodoList from "./TodoList.jsx";
 import TodoForm from "./TodoForm.jsx";
 
